@@ -7,6 +7,7 @@ effect_starting_politics_matriarchy = {
 	activate_law = law_type:law_slavery_banned
 	activate_law = law_type:law_proportional_taxation
 	activate_law = law_type:law_elected_bureaucrats
+	activate_law = law_type:law_charitable_health_system
 	activate_law = law_type:law_religious_schools
 	activate_law = law_type:law_compulsory_primary_school
 	activate_law = law_type:law_womens_suffrage

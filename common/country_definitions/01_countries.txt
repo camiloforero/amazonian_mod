@@ -5,6 +5,6 @@ CLM = {
 	
 	tier = kingdom
 	
-	cultures = { muisca afro_caribeno amazonian }
+	cultures = { muisca afro_caribeno }
 	capital = STATE_CUNDINAMARCA
 }

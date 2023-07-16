@@ -1,3 +1,137 @@
+central_american={
+	color= hsv{ 0.51 0.21 0.67 }
+	religion = catholic
+	traits = { hispanophone european_heritage indigenous_american_heritage }
+	male_common_first_names={
+		Alejandro
+		Andres
+		Aniceto
+		Arturo
+		Bartolome
+		Basilio
+		Benito
+		Benjamin_2
+		Bernardo
+		Carlos
+		Daniel
+		Diego
+		Doroteo
+		Eduardo
+		Eugenio_2
+		Felipe
+		Fermin
+		Fernando
+		Francisco
+		Fruto
+		Felix
+		Jacobo
+		Jesus
+		Joaquin
+		Jorge
+		Jose_Francisco
+		Jose_Maria
+		Juan
+		Juan_Antonio
+		Juan_Pablo
+		Julio
+		Justo
+		Lisandro
+		Lorenzo
+		Manuel
+		Marcelino
+		Maximiliano
+		Maximo
+		Pedro
+		Ponciano
+		Prospero_2
+		Rafael_2
+		Ramon
+		Santiago
+		Sebastian
+		Tiburcio
+		Tomas
+		Toribio
+		Victoriano
+		Oscar_2
+	}
+	female_common_first_names = {
+		Alba
+		Amanda
+		Angela
+		Bertha
+		Clementina
+		Consuelo
+		Graciela
+		Juana
+		Julieta
+		Leticia
+		Lucila
+		Miriam
+		Paula
+		Rigoberta
+	}	
+	noble_last_names = {
+		Barrios
+		Escalon
+		Menendez
+		Morazan
+		Regalado
+	}
+	common_last_names={
+		Aguilar
+		Andino
+		Araujo
+		Arbenz
+		Barahona
+		Barillas
+		Barrios
+		Cabanas
+		Carrera
+		Castellanos
+		Chamorro
+		Chavez
+		Corral
+		Cardenas_2
+		Esquivel
+		Estrada
+		Ezeta
+		Fernandez
+		Ferrera
+		Figueroa
+		Garrigo
+		GU_ell
+		Guzman
+		Hernandez
+		Jerez
+		Jimenez
+		Leiva
+		Lopez
+		Machado
+		Martinez_2
+		Medina
+		Mejia
+		Montes
+		Montiel
+		Palacios
+		Peralta
+		Quiros
+		Rosales
+		Sevilla
+		Sinibaldi
+		Soto
+		Teran
+		Ubico
+		Vasconcelos
+		Vigil
+		Zelaya
+		Zeledon
+	}
+	ethnicities = {
+		1 = south_american
+	}
+	graphics = generic
+}
+
 north_andean={
 	color= hsv{ 0.20 0.35 0.41 }
 	religion = catholic
@@ -262,6 +396,145 @@ central_american={
 		Vigil
 		Zelaya
 		Zeledon
+	}
+	ethnicities = {
+		1 = south_american
+	}
+	graphics = generic
+}
+
+south_andean={
+	color= hsv{ 0.45 0.15 0.61 }
+	religion = catholic
+	traits = { hispanophone european_heritage indigenous_american_heritage }
+	male_common_first_names={
+		Adolfo
+		Agustin
+		Alejandro
+		Andres
+		Antonio
+		Anibal
+		Bartolome
+		Bernardo
+		David
+		Diego
+		Domingo
+		Eduardo
+		Emiliano
+		Emilio
+		Enrique
+		Esteban
+		Eusebio_2
+		Federico
+		Felipe
+		Francisco
+		German_2
+		Hernando
+		Hilarion
+		Ignacio
+		Isidoro
+		Ismael
+		Jorge
+		Jose
+		Jose_Miguel
+		Juan
+		Juan_Antonio
+		Juan_Francisco
+		Justo
+		Ladislao
+		Luis
+		Manuel
+		Mariano
+		Miguel
+		Narciso
+		Nicolas_2
+		Pablo
+		Patricio
+		Pedro
+		Ramon
+		Rufino
+		Ruperto
+		Santiago
+		Sebastian
+		Severino
+		Tomas
+	}
+	female_common_first_names = {
+		Ana
+		Carmen
+		Cecilia
+		Dolores
+		Gabriela
+		Hipatia
+		Hercilia
+		Lorenza
+		Magdalena
+		Manuela
+		Mariana
+		Marieta
+		Mercedes
+		Modesta
+		Narcisa
+		Rita
+		Rosa
+		Sara
+		Teresa
+		Zoila
+	}	
+	noble_last_names = {
+		de_la_Santa_Cruz
+		de_Santa_Cruz
+		de_Velasco
+		de_Vidal
+		de_la_Cruz
+	}
+	common_last_names={
+		Abaroa
+		Altamirano
+		Arteaga
+		Ballivian
+		Baquedano
+		Belzu
+		Blanche
+		Blanco
+		Bulnes
+		Cabrera
+		Calvo
+		Campero
+		Castilla
+		Corrico
+		Daza
+		Echenique
+		Errazuriz
+		Fernandez
+		Figueroa
+		Franco
+		Freire
+		Gamarra
+		Gorostiaga
+		Grau
+		Guilarte
+		La_Mar
+		Latorre
+		Lynch
+		Melgarejo
+		Monje
+		Montero
+		Montes
+		Montt
+		Orbegoso
+		Pezet
+		Rebolledo
+		Ruiz-Tagle
+		Salaverry
+		Santa_Maria
+		Siles
+		Sotomayor
+		Toro
+		Valencia
+		Zapata
+		Zanartu
+		Agreda
 	}
 	ethnicities = {
 		1 = south_american

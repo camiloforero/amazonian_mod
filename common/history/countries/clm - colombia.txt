@@ -1,0 +1,43 @@
+COUNTRIES = {
+	c:CLM = {
+		set_next_election_date = 1837.4.1
+		
+		effect_starting_technology_tier_3_tech = yes
+		effect_starting_politics_matriarchy = yes
+		
+		set_tariffs_import_priority = g:small_arms
+		set_tariffs_import_priority = g:artillery
+		# Import clippers
+		# 
+		
+		ig:ig_rural_folk = {
+			add_ruling_interest_group = yes
+		}
+
+		ig:ig_intelligentsia = {
+			add_ruling_interest_group = yes
+		}
+
+		ig:ig_armed_forces = {
+			add_ideology = ideology_caudillismo
+		}
+
+		ig:ig_landowners = {
+			remove_ideology = ideology_paternalistic
+			add_ideology = ideology_caudillismo
+		}
+
+		ig:ig_devout = {
+			remove_ideology = ideology_moralist
+			remove_ideology = ideology_patriarchal
+			add_ideology = ideology_egalitarian
+			add_ideology = ideology_socialist
+		}
+
+		add_modifier = {
+			name = age_of_caudillos_modifier
+			months = very_long_modifier_time
+			is_decaying = yes
+		}
+	}
+}

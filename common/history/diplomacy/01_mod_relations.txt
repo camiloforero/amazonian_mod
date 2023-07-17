@@ -1,0 +1,5 @@
+﻿DIPLOMACY = {
+	c:CLM = {
+		set_relations = { country = c:AMZ value = 80 }
+	}
+}

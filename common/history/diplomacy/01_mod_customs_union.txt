@@ -1,0 +1,8 @@
+﻿DIPLOMACY = {
+	c:CLM = {	
+		create_diplomatic_pact = {
+			country = c:AMZ
+			type = customs_union
+		}
+	}
+}

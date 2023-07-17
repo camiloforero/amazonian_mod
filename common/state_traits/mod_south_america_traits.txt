@@ -1,0 +1,9 @@
+state_trait_amazon_native_stewardship {
+	icon = "gfx/interface/icons/state_trait_icons/resources_lumber.dds"
+	
+	modifier = {
+		state_construction_mult = 0.16
+		state_infrastructure_mult = 0.16
+		state_infrastructure_from_population_add = 1
+	}
+}

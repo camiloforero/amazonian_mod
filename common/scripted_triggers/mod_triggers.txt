@@ -1,0 +1,5 @@
+amazon_has_native_stewardship {
+	AND = {
+	
+	}
+}
